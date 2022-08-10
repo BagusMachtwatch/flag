@@ -2,4 +2,4 @@ create-location:
   true: true
   false: false
   default: false
-  disable: false
+  disable: true
